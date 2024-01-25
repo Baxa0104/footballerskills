@@ -1,0 +1,4 @@
+RELEASE 0.1 // Date: 17.11.2023
+
+- Fixed small bugs and Hard coding.
+- Improved BackEnd of the programm. Advanced Functions
